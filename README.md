@@ -15,7 +15,7 @@ If you use this repository, **please reference the publication below**.
 L. Hollander, L. Pedroso, R. De Castro and M. Salazar, **Fair Incentive Mechanisms for Differentiated Services in a Public Electric Vehicle Charging Station**, *Eindhoven University of Technology*, 2024. 
 
 ```bib
-@mastersthesis{Hollander2024,
+@mastersthesis{HollanderPedrosoEtAl2024,
 author = {L. Hollander and L. Pedroso and R. {De Castro} and M. Salazar},
 title = {Fair Incentive Mechanisms for Differentiated Services in a Public Electric Vehicle Charging Station},
 year = {2024},
@@ -30,5 +30,5 @@ Ricardo De Castro<sup>2</sup> <a href="https://engineering.ucmerced.edu/content/
 Mauro Salazar<sup>1</sup> <a href="https://scholar.google.com/citations?user=0Z9zTYwAAAAJ&hl=en"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" style="width:1em;margin-right:.5em;"></a> <a href="https://orcid.org/0000-0003-4433-5796"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a>
 
 <sub><sup>1</sup>Control Systems Technology section, Eindhoven University of Technology, the Netherlands<br></sub>
-<sub><sup>2</sup>Department of Mechanical Engineering University of California, Merced, United States<br></sub>
+<sub><sup>2</sup>Department of Mechanical Engineering, University of California, Merced, United States<br></sub>
 ***
